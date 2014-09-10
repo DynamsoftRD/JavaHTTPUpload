@@ -1,4 +1,4 @@
-Java HTTP Upload
+Using Java & Android to Upload Files via HTTP
 =========
 The samples show how to upload image files from Java and Android clients to a remote server.
 
